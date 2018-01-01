@@ -1,2 +1,2 @@
 # Design-Pattern-Examples
-Basic Examples of Design Patterns
+Basic Examples of Some Design Patterns.
